@@ -1,0 +1,21 @@
+class Solution {
+    public boolean checkPossibility(int[] arr) {
+			int n = arr.length;
+      boolean changed = false;
+
+		for(int i=0;i<n-1;i++){
+			if(arr[i]<=arr[i+1])
+				continue;
+			if(changed)
+				return false;
+
+			// Change the element
+			if(i==0 || arr[i+1]>=arr[i-1])
+				arr[i] = arr[i+1];
+			else
+				arr[i+1] = arr[i];
+			changed = true;
+		}
+		return true;
+    }
+}
