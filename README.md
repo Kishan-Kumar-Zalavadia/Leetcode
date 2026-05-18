@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0322-coin-change) |
 | [0396-rotate-function](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/main/0396-rotate-function/) | Medium |
 | [1306-jump-game-iii](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1345-jump-game-iv) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
@@ -36,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [1345-jump-game-iv](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1345-jump-game-iv) |
 | [2784-check-if-array-is-good](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [3488-closest-equal-element-queries](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -91,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0322-coin-change](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0322-coin-change) |
 | [1306-jump-game-iii](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1345-jump-game-iv) |
 ## Depth-First Search
 |  |
 | ------- |
