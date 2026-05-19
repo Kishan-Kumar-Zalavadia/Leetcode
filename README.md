@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2540-minimum-common-value](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [3488-closest-equal-element-queries](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -28,16 +29,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2540-minimum-common-value](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/2540-minimum-common-value) |
 ## Binary Search
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2540-minimum-common-value](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/2540-minimum-common-value) |
 | [3488-closest-equal-element-queries](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/3488-closest-equal-element-queries) |
 ## Hash Table
 |  |
 | ------- |
 | [1345-jump-game-iv](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1345-jump-game-iv) |
+| [2540-minimum-common-value](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [3488-closest-equal-element-queries](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
