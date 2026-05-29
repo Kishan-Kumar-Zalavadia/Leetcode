@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2784-check-if-array-is-good](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/3093-longest-common-suffix-queries) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3488-closest-equal-element-queries](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Greedy
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0048-rotate-image) |
 | [0396-rotate-function](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0788-rotated-digits) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Dynamic Programming
 |  |
