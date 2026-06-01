@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1306-jump-game-iii](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1345-jump-game-iv) |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -145,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [1046-last-stone-weight](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1046-last-stone-weight) |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1354-construct-target-array-with-multiple-sums) |
 ## Binary Indexed Tree
 |  |
 | ------- |
