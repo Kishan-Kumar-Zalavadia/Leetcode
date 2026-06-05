@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0482-license-key-formatting](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0796-rotate-string) |
+| [0831-masking-personal-information](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0831-masking-personal-information) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
