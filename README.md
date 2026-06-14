@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -152,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -211,4 +213,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
+## Linked List
+|  |
+| ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
