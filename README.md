@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0796-rotate-string) |
@@ -122,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String Matching
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0796-rotate-string) |
 ## Matrix
 |  |
