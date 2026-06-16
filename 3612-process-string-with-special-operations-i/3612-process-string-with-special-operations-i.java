@@ -1,18 +1,22 @@
 class Solution {
     public String processStr(String s) {
-        StringBuilder ans = new StringBuilder();
-        for (int i=0; i<s.length(); i++) {
+        StringBuilder str = new StringBuilder();
+
+        for(int i=0; i<s.length(); i++){
             char ch = s.charAt(i);
-            if (Character.isLowerCase(ch)) {
-                ans.append(ch);
-            } else if (ch == '*' && ans.length() > 0) {
-                ans.setLength(ans.length()-1);
-            } else if (ch == '#') {
-                ans = ans.append(ans);
-            } else if (ch == '%') {
-                ans = ans.reverse();
+            if(ch == '#') {
+                str.append(str.toString());
+            } else if(ch == '%') {  
+                str.reverse();
+            } else if(ch == '*') {
+                if(str.length() > 0){
+                    str.deleteCharAt(str.length() - 1);
+                }
+            } else {
+                str.append(ch);
             }
         }
-        return ans.toString();
+        return str.toString();
+
     }
 }
