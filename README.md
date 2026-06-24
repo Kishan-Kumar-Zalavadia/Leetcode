@@ -104,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1840-maximum-building-height](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1840-maximum-building-height) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Dynamic Programming
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0396-rotate-function](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0788-rotated-digits) |
 | [1340-jump-game-v](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1340-jump-game-v) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## String
 |  |
