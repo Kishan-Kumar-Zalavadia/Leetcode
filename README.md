@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3838-weighted-word-mapping](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Greedy
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3120-count-the-number-of-special-characters-i](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3488-closest-equal-element-queries](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/3488-closest-equal-element-queries) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Math
 |  |
@@ -216,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [3161-block-placement-queries](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/3161-block-placement-queries) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -226,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1732-find-the-highest-altitude](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/2574-left-and-right-sum-differences) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Tree
 |  |
 | ------- |
@@ -245,4 +249,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
