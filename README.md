@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1833-maximum-ice-cream-bars](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1840-maximum-building-height) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/2126-destroying-asteroids) |
@@ -132,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0796-rotate-string](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0796-rotate-string) |
 | [0831-masking-personal-information](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0831-masking-personal-information) |
 | [1189-maximum-number-of-balloons](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
