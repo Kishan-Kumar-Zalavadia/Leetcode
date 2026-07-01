@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2574-left-and-right-sum-differences](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/2784-check-if-array-is-good) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/3093-longest-common-suffix-queries) |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/2540-minimum-common-value) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3161-block-placement-queries](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/3161-block-placement-queries) |
 | [3488-closest-equal-element-queries](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -154,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0048-rotate-image](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0048-rotate-image) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Sorting
 |  |
 | ------- |
@@ -195,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0322-coin-change) |
 | [1306-jump-game-iii](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1345-jump-game-iv) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -216,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1046-last-stone-weight](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1046-last-stone-weight) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1354-construct-target-array-with-multiple-sums) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Binary Indexed Tree
 |  |
@@ -275,4 +280,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
