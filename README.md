@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0396-rotate-function](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/main/0396-rotate-function/) | Medium |
 | [1046-last-stone-weight](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1046-last-stone-weight) |
 | [1306-jump-game-iii](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1306-jump-game-iii) |
+| [1331-rank-transform-of-an-array](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1345-jump-game-iv) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1354-construct-target-array-with-multiple-sums) |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -177,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1331-rank-transform-of-an-array](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
