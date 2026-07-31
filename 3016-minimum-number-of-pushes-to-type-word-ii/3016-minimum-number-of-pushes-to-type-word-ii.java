@@ -1,39 +1,51 @@
 class Solution {
     public int minimumPushes(String word) {
-        int ans = 0;
-        HashMap<Character, Integer> map = new HashMap<>();
-        int n = word.length();
-        for (int i=0; i<n; i++) {
-            char ch = word.charAt(i);
-            map.put(ch, map.getOrDefault(ch, 0)+1);
+     int freq[]=new int[26];
+     for(int i=0;i<word.length();i++)
+       {
+        freq[word.charAt(i)-'a']++;
+       }
+     countSort(freq);
+     int j=25;
+     int cnt=0;
+     int ans=0;
+     while(j>=0){
+        int t=freq[j];
+        if(t>0)
+           cnt++;
+        if(cnt<=8){
+          ans+=t;
+        }       
+        else if(cnt>8 && cnt<=16){
+           ans+=t*2;
         }
-        LinkedHashMap<Character, Integer> sortedMap = map.entrySet()
-            .stream()
-            .sorted(Map.Entry.comparingByValue(Comparator.reverseOrder()))
-            .collect(Collectors.toMap(
-            Map.Entry::getKey,
-            Map.Entry::getValue,
-            (oldValue, newValue) -> oldValue,
-            LinkedHashMap::new
-        ));
-        System.out.println(sortedMap);
+        else if(cnt>16 && cnt<=24)
+        { ans+=t*3;
 
-        Iterator<Map.Entry<Character, Integer>> iterator = sortedMap.entrySet().iterator();
-
-        int count = 8;
-        int pressTimes = 1;
-        while (iterator.hasNext()) {
-            Map.Entry<Character, Integer> entry = iterator.next();
-            int key = entry.getKey();
-            int val = entry.getValue();
-            ans += pressTimes*val;
-            count--;
-            if (count == 0) {
-                pressTimes++;
-                count = 8;
+        }
+        else if(cnt>24 && cnt<=26) {
+             ans+=t*4;
+        }
+        j--;
+     }
+     return ans;
+    }
+    public void countSort(int[] nums){
+       int max=0;
+        for(int i=0;i<26;i++){
+        max=Math.max(nums[i],max);
+        }
+        int freq[]=new int[max+1];
+        for(int i=0;i<26;i++){
+            freq[nums[i]]++;
+        }
+        int j=0;
+        for(int i=0;i<max+1;i++){
+            while(freq[i]>0){
+                nums[j]=i;
+                freq[i]--;
+                j++;
             }
         }
-
-        return ans;
     }
 }
