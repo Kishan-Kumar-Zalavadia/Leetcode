@@ -1,13 +1,16 @@
 class Solution {
     public boolean stoneGame(int[] piles) {
-        int sum = 0;
-        int n = piles.length;
-        int[][] dp = new int[n][n];
-        for (int i=0; i<piles.length; i++){
-            sum += piles[i];
-        }
-        int aliceScore = recurssion(piles, 0, n-1, dp);
-        return aliceScore > (sum-aliceScore);
+        // Logical answers
+        // If there are even numver of piles and a garunted winner, Alice can always win
+        return true; 
+        // int sum = 0;
+        // int n = piles.length;
+        // int[][] dp = new int[n][n];
+        // for (int i=0; i<piles.length; i++){
+        //     sum += piles[i];
+        // }
+        // int aliceScore = recurssion(piles, 0, n-1, dp);
+        // return aliceScore > (sum-aliceScore);
     }
 
     public int recurssion(int[] piles, int i, int j, int[][] dp) {
