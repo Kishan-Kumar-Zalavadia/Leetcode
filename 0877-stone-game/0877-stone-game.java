@@ -1,16 +1,16 @@
 class Solution {
-    int[][] dp = new int[501][501];
     public boolean stoneGame(int[] piles) {
         int sum = 0;
         int n = piles.length;
+        int[][] dp = new int[n][n];
         for (int i=0; i<piles.length; i++){
             sum += piles[i];
         }
-        int aliceScore = recurssion(piles, 0, n-1);
+        int aliceScore = recurssion(piles, 0, n-1, dp);
         return aliceScore > (sum-aliceScore);
     }
 
-    public int recurssion(int[] piles, int i, int j) {
+    public int recurssion(int[] piles, int i, int j, int[][] dp) {
         if (i>j) {
             return 0;
         }
@@ -18,8 +18,8 @@ class Solution {
             return dp[i][j];
         }
         int aliceScore = Math.max(
-            piles[i] + Math.min(recurssion(piles, i+2, j), recurssion(piles, i+1, j-1)),
-            piles[j] + Math.min(recurssion(piles, i+1, j-1), recurssion(piles, i, j-2))
+            piles[i] + Math.min(recurssion(piles, i+2, j, dp), recurssion(piles, i+1, j-1, dp)),
+            piles[j] + Math.min(recurssion(piles, i+1, j-1, dp), recurssion(piles, i, j-2, dp))
         );
         dp[i][j] = aliceScore;
         return aliceScore;
