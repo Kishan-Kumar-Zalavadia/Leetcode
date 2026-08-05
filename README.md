@@ -280,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1306-jump-game-iii](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1306-jump-game-iii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
@@ -339,12 +340,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Tree
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Linked List
 |  |
@@ -426,4 +429,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1406-stone-game-iii) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
