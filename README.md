@@ -269,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0322-coin-change) |
 | [1306-jump-game-iii](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1306-jump-game-iii) |
@@ -280,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0572-subtree-of-another-tree) |
@@ -341,6 +343,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0572-subtree-of-another-tree) |
@@ -349,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0572-subtree-of-another-tree) |
