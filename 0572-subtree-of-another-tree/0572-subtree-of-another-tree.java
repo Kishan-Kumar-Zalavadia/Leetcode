@@ -1,40 +1,14 @@
-/**
- * Definition for a binary tree node.
- * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode() {}
- *     TreeNode(int val) { this.val = val; }
- *     TreeNode(int val, TreeNode left, TreeNode right) {
- *         this.val = val;
- *         this.left = left;
- *         this.right = right;
- *     }
- * }
- */
 class Solution {
-
-    public boolean compare(TreeNode root, TreeNode find) {
-        if (root==null && find==null) {
-            return true;
+    private String serialize(TreeNode node) {
+        if (node == null) {
+            return "N";
         }
-        if (root == null || find==null) {
-            return false;
-        }
-        if (root.val != find.val) {
-            return false;
-        }
-        return compare(root.left, find.left) && compare(root.right, find.right);
+        return "(" + node.val + "," + serialize(node.left) + "," + serialize(node.right) + ")";
     }
+
     public boolean isSubtree(TreeNode root, TreeNode subRoot) {
-        if (root == null)
-            return false;
-
-        if (compare(root, subRoot))
-            return true;
-
-        return isSubtree(root.left, subRoot)
-            || isSubtree(root.right, subRoot);
+        String rootSerialized = serialize(root);
+        String subRootSerialized = serialize(subRoot);
+        return rootSerialized.contains(subRootSerialized);
     }
 }
