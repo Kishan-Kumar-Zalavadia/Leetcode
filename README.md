@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0877-stone-game) |
 | [1046-last-stone-weight](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1046-last-stone-weight) |
+| [1140-stone-game-ii](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1306-jump-game-iii](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -149,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1406-stone-game-iii) |
 | [1840-maximum-building-height](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1840-maximum-building-height) |
@@ -176,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1140-stone-game-ii) |
 | [1340-jump-game-v](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1340-jump-game-v) |
 | [1406-stone-game-iii](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -343,6 +346,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [1140-stone-game-ii](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1140-stone-game-ii) |
 | [1732-find-the-highest-altitude](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -446,6 +450,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0486-predict-the-winner](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1406-stone-game-iii) |
 ## DP on Trees
 |  |
@@ -459,4 +464,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
