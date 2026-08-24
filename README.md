@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1833-maximum-ice-cream-bars](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1840-maximum-building-height) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1872-stone-game-viii](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1872-stone-game-viii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/2029-stone-game-ix) |
@@ -168,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1406-stone-game-iii](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1510-stone-game-iv) |
 | [1840-maximum-building-height](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1840-maximum-building-height) |
+| [1872-stone-game-viii](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/2029-stone-game-ix) |
@@ -199,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1340-jump-game-v](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1340-jump-game-v) |
 | [1406-stone-game-iii](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/3620-network-recovery-pathways) |
@@ -372,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1140-stone-game-ii](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1140-stone-game-ii) |
 | [1732-find-the-highest-altitude](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1872-stone-game-viii](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1872-stone-game-viii) |
 | [2574-left-and-right-sum-differences](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -480,6 +484,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1140-stone-game-ii](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/2029-stone-game-ix) |
 ## DP on Trees
@@ -499,12 +504,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1140-stone-game-ii](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
