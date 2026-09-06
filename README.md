@@ -204,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0322-coin-change](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0322-coin-change) |
 | [0396-rotate-function](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0486-predict-the-winner](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0486-predict-the-winner) |
@@ -222,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0459-repeated-substring-pattern](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0520-detect-capital) |
