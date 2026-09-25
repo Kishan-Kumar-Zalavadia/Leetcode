@@ -141,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1345-jump-game-iv) |
@@ -239,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0831-masking-personal-information](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0831-masking-personal-information) |
 | [0940-distinct-subsequences-ii](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1927-sum-game](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1927-sum-game) |
@@ -285,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1096-brace-expansion-ii](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1340-jump-game-v) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -324,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Design
 |  |
@@ -335,6 +339,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0112-path-sum](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0322-coin-change) |
+| [1096-brace-expansion-ii](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1306-jump-game-iii](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1345-jump-game-iv) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -537,6 +542,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Minimax
 |  |
