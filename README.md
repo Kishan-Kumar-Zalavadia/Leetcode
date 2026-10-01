@@ -235,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0459-repeated-substring-pattern](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0482-license-key-formatting) |
@@ -334,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1096-brace-expansion-ii) |
@@ -586,6 +588,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
