@@ -1,23 +1,15 @@
-import java.util.ArrayList;
-import java.util.List;
-
 class Solution {
     public List<Integer> targetIndices(int[] nums, int target) {
-        int lessThanTargetCount = 0;
-        int targetCount = 0;
-        for (int num : nums) {
-            if (num < target) {
-                lessThanTargetCount++;
-            } else if (num == target) {
-                targetCount++;
-            }
+        Arrays.sort(nums);
+        List<Integer> ans = new ArrayList<>();
+        int i=0;
+        while (i<nums.length && nums[i] != target) {
+            i++;
         }
-        
-        List<Integer> result = new ArrayList<>();
-        for (int i = 0; i < targetCount; i++) {
-            result.add(lessThanTargetCount + i);
+        while (i<nums.length && nums[i] == target) {
+            ans.add(i);
+            i++;
         }
-        
-        return result;
+        return ans;
     }
 }
