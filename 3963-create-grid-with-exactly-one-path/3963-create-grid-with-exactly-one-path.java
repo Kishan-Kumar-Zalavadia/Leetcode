@@ -1,22 +1,12 @@
 class Solution {
     public String[] createGrid(int m, int n) {
-        var res = new String[m];
-        var sb = new StringBuilder();
-        for (var i = 0; i < n; i++) {
-            sb.append(".");
+        String[] ans = new String[m];
+        ans[0] = ".".repeat(n);
+        String str = "#".repeat(n-1);
+        str += '.';
+        for (int i=1; i<m; i++) {
+            ans[i] = str;
         }
-        res[0] = sb.toString();
-
-        sb = new StringBuilder();
-        for (var i = 1; i < n; i++) {
-            sb.append("#");
-        }
-        sb.append(".");
-        
-        for(var i = 1; i < m; i++) {
-            res[i] = sb.toString();
-        }
-        
-        return res;
+        return ans;
     }
 }
