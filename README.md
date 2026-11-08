@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1140-stone-game-ii](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1340-jump-game-v) |
@@ -354,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1254-number-of-closed-islands](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -438,6 +440,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0322-coin-change) |
 | [1096-brace-expansion-ii](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1345-jump-game-iv) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -454,6 +457,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [1254-number-of-closed-islands](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1306-jump-game-iii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
@@ -568,6 +572,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1267-count-servers-that-communicate](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1833-maximum-ice-cream-bars](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2029-stone-game-ix](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -602,6 +607,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Kishan-Kumar-Zalavadia/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
